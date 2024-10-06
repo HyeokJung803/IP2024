@@ -1,6 +1,10 @@
 # OpenCV-Python Tutorials
 OpenCV-Python Tutorials
 
+Homework1
+https://www.youtube.com/watch?v=1dUIb7USx7E
+
+
 Homework2
 
 <img snc=" /QCQI Visualization gif" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization">
