@@ -6,4 +6,4 @@ Homework2
 
 https://youtu.be/vdgBSpzaEWI?si=M3pJ8szVNDrGZAE1
 
-[![Video] (https://img.youtube.com/vi/vdgBSpzaEWI?si=M3pJ8szVNDrGZAE1/maxresdefault.jpg)](https://youtu.be/vdgBSpzaEWI?si=M3pJ8szVNDrGZAE1)
+[![Video Label](http://img.youtube.com/vi/'vdgBSpzaEWI?si=M3pJ8szVNDrGZAE1'/0.jpg)](https://youtu.be/'vdgBSpzaEWI?si=M3pJ8szVNDrGZAE1')
