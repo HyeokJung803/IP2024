@@ -2,14 +2,13 @@
 OpenCV-Python Tutorials
 
 Homework1
-https://www.youtube.com/watch?v=1dUIb7USx7E
 
+![SnapSave io-Homework1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b1b039e3-76b0-4caa-a845-dec1a9323cea)
 
-Homework2
+youtube url = https://www.youtube.com/watch?v=1dUIb7USx7E
 
-<img snc=" /QCQI Visualization gif" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization">
-</img?
+Homework2 
 
-https://www.youtube.com/watch?v=vdgBSpzaEWI
+![homework2](https://github.com/user-attachments/assets/8f10a5a9-10a9-4b7a-9765-4955fed6ae82)
 
-[L[Video](https://img.youtube.com/vi/vdgBSpzaEWI/maxresdefault.jpg)](https://www.youtube.com/watch?v=vdgBSpzaEWI)
+youtube url = https://youtu.be/numUVr1emco
