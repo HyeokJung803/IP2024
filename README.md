@@ -9,6 +9,6 @@ youtube url = https://www.youtube.com/watch?v=1dUIb7USx7E
 
 Homework2 
 
-![homework2](https://github.com/user-attachments/assets/8f10a5a9-10a9-4b7a-9765-4955fed6ae82)
+![SnapSave io-Homework2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aecc1495-d76d-4f79-91fa-7e21b81359af)
 
-youtube url = https://youtu.be/numUVr1emco
+youtube url = https://youtu.be/vdgBSpzaEWI
