@@ -21,3 +21,7 @@ Homework4
 ![c83ec905c27240a8af1a1d62cf6c2c05](https://github.com/user-attachments/assets/efc7675b-e5a1-427f-affe-c89ee4599663)
 
 youtube ur1 = https://youtu.be/0JDCsyEILW0
+
+Homework5
+
+![homework5](https://github.com/user-attachments/assets/93256cee-f1af-4908-9994-85fd20377c6a)
